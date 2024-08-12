@@ -1,5 +1,4 @@
-# Hi my name is Luis Victor! 👋
-## [My Portfolio!](https://faithfulbreeze.github.io/)
+## Hi my name is Luis Victor! 👋
 I study web backend development!
 <br>
 From Fortaleza, CE, Brazil.
