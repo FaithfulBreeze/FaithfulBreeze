@@ -54,5 +54,9 @@
 <a href="https://www.linkedin.com/in/luis-victor-silva-santos-613729229/"><img src="https://img.shields.io/badge/-Luis%20Victor%20Silva%20Santos-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:victorsilvasantos800@gmail.com"><img src="https://img.shields.io/badge/-victorsilvasantos800@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
------
+<hr>
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=FaithfulBreeze&repo=FaithfulBreeze&countColor=%237B1E7A" />
+   </a>
+</p>
