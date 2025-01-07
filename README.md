@@ -1,4 +1,4 @@
-![Luis Victor Banner](https://media.licdn.com/dms/image/v2/D4E16AQG_BZE5g1crWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724591793061?e=1730332800&v=beta&t=ss7eyVeLd-Vm_cZtTrCWjhrn0-dXh7xSlAE9L4QyEW8)
+![Luis Victor Banner](https://media.licdn.com/dms/image/v2/D4E16AQG_BZE5g1crWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724591793061?e=1741824000&v=beta&t=BOksdJFDwr1b4MDNXllP99RBsAyaP9BX6AnF7a0wR0g)
 
 <h1 align="center">Hey there! I'm Luis Victor!</h1>
 
