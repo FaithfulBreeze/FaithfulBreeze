@@ -1,4 +1,4 @@
-![Luis Victor Banner](banner.jpg)
+![Luis Victor Banner](banner.jpeg)
 
 <h1 align="center">Hey there! I'm Luis Victor!</h1>
 
